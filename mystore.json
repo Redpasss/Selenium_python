@@ -1,0 +1,47 @@
+{
+
+      "hover_element": "//img[@width='250']",
+      "add_button": "//a[@title='Add to cart']",
+      "msg": "//i[@class='icon-ok']/../../h2",
+
+      "open_menu": "//*[@id='categories_block_left']/div/ul/li[1]/span",
+      "assert_dropdown_tshirts": "//*[@id='categories_block_left']/div/ul/li[1]/ul/li[1]/a",
+      "assert_dropdown_blouses": "//*[@id='categories_block_left']/div/ul/li[1]/ul/li[2]/a",
+
+      "open_menu2": "//*[@id='categories_block_left']/div/ul/li[2]/span",
+      "assert_dropdown_casual_dresses": "//*[@id='categories_block_left']/div/ul/li[2]/ul",
+
+      "top_menu_women": "//*[@id='block_top_menu']/ul/li[1]/a",
+
+      "list_view": "//*[@id='list']/a/i",
+      "title_selector": "//*[@id='center_column']/ul/li[1]/div/div/div[2]/h5/a",
+
+      "quick_view": "//*[@id='center_column']/ul/li[1]/div/div[1]/div/a[2]",
+      "image_selector": "//*[@id='center_column']/ul/li[1]/div/div[1]/div/a[1]/img",
+      "item_name": "//body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[3]/div[2]/a[1]",
+      "iframe": "//*[@class='fancybox-iframe']",
+
+      "quick_selector": "//*[@id='center_column']/ul/li[1]/div/div[2]/h5/a",
+      "button": "//*[@id='add_to_cart']/button/span",
+      "tops_xpath": "//*[@id='block_top_menu']/ul/li[1]/ul/li[1]/ul/li[2]/a",
+
+      "more_btn": "//*[@id='center_column']/ul/li[1]/div/div[2]/div[2]/a[2]/span",
+
+      "blue_color": "//*[@id='color_2']",
+
+      "add_to_wish": "//body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[3]/div[1]/a[1]",
+      "add_to_compare": "//*[@id='center_column']/ul/li[1]/div/div[3]/div[2]/a",
+      "compare_btn": "//body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/div[3]/div[2]/form[1]/button[1]/span[1]",
+      "error_page": "508 Resource Limit Is Reached",
+
+      "search": "//*[@id='search_query_top']",
+      "search_btn": "//*[@id='searchbox']/button",
+      "blouse_article": "//*[@id='center_column']/ul/li/div/div[2]/h5/a",
+      "quantity_plus": "//*[@id='quantity_wanted_p']/a[2]/span/i",
+      "quantity_minus": "//*[@id='quantity_wanted_p']/a[1]/span/i",
+      "add_to_cart": "//*[@id='add_to_cart']/button/span",
+      "quantity": "//*[@id='quantity_wanted']",
+      "size_select": "//option[contains(text(),'L')]",
+      "white_color": "//*[@id='color_8']"
+
+}
